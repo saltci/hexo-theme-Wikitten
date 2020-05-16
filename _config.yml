@@ -65,10 +65,10 @@ history_control: # make you wiki has history version control in page
     branch: writing
 
 # Comment
-# comment:
-#     disqus: # enter disqus shortname here
-#     duoshuo: # enter duoshuo shortname here
-#     youyan: # enter youyan uid here
+comment:
+    disqus: # enter disqus shortname here
+    duoshuo: # enter duoshuo shortname here
+    youyan: # enter youyan uid here
 
 # Share
 share: default # options: jiathis, bdshare, addtoany, default
@@ -84,10 +84,10 @@ plugins:
     busuanzi_count: true # options: true, false - to enable busuanzi site pv statistics
 
 # Miscellaneous
-# miscellaneous:
-#     open_graph: # see http://ogp.me
-#         fb_app_id:
-#         fb_admins:
-#         twitter_id:
-#         google_plus:
-#     links:
+miscellaneous:
+    open_graph: # see http://ogp.me
+        fb_app_id:
+        fb_admins:
+        twitter_id:
+        google_plus:
+    links:
